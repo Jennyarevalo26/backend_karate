@@ -1,0 +1,12 @@
+{
+
+  "qa" : {
+
+    "urlregres": "https://reqres.in/",
+    "email": "eve.holt@reqres.in",
+    "password": "pistol",
+    "name": "morpheus",
+    "job":"zion resident"
+
+  }
+}

@@ -41,26 +41,8 @@ Maven: Dependency management and project building tool for Java projects.
 ## 📂 Project structure
 
 
-ReqreExercise/
+![image](https://github.com/Jennyarevalo26/backend_karate/assets/169808517/c1da5892-5ba9-4cd2-a2f4-70cde83e8b71)
 
-├── build/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── Backend/
-│   │   │       └── ManagementTest.java
-│   │   │       └── user.java
-│   │   └── resources/
-│   │   │    └── Backend/
-│   │   │       └── responsePostRegisterSuccessful.json
-│   │   │       └── user.feature
-│   │   │── javakarate-config.js
-│   │   │── karate-properties.json
-│   │   │
-│   ├── test/
-│   ├   ├── java/
-└── .gitignore
-├── pom.xml
 
 
 src/main/java: Contains the test classes written in Java.
